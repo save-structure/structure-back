@@ -86,7 +86,7 @@ Youtube Data API, Geolocation API, OpenWeatherAPI KEY는 개인 키로 입력
 
 - NPM (Node Package Manager) (v2.0)
 
-## Berkeley Software Distribution(BSD) License
+### Berkeley Software Distribution(BSD) License
 
 - 버클리 캘리포니아대학 배포 공개 SW 라이선스
 
@@ -95,7 +95,7 @@ Youtube Data API, Geolocation API, OpenWeatherAPI KEY는 개인 키로 입력
 
 
 ## 7. 도움을 준 사람
-작성자 : 김민지(https://github.com/save-structure/structure-back)
+작성자 : [김민지](https://github.com/save-structure/structure-back)
 
 ### 프론트 
 [김조현](https://github.com/save-structure/structure-front)
