@@ -3,7 +3,7 @@
 ## 0. 프로젝트 실행 방법
 
 ```javascript
-		node index.js
+node index.js
 ```
 
 Youtube Data API, Geolocation API, OpenWeatherAPI KEY는 개인 키로 입력
