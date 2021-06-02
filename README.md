@@ -78,8 +78,23 @@ Youtube Data API, Geolocation API, OpenWeatherAPI KEY는 개인 키로 입력
 - MySQL
 
 
+## 6. 라이센스
 
-## 6. 도움을 준 사람
+### Artistic License
+
+- 펄 언어 래리 월이 표준 펄 기능을 위해 만든 라이선스.
+
+- NPM (Node Package Manager) (v2.0)
+
+## Berkeley Software Distribution(BSD) License
+
+- 버클리 캘리포니아대학 배포 공개 SW 라이선스
+
+- Nginx
+
+
+
+## 7. 도움을 준 사람
 작성자 : minnji88
 
 ### 프론트 
