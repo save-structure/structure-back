@@ -95,7 +95,7 @@ Youtube Data API, Geolocation API, OpenWeatherAPI KEY는 개인 키로 입력
 
 
 ## 7. 도움을 준 사람
-작성자 : minnji88
+작성자 : 김민지(https://github.com/save-structure/structure-back)
 
 ### 프론트 
 [김조현](https://github.com/save-structure/structure-front)
